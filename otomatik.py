@@ -15,7 +15,7 @@ sure = input("IP Değişim Süre(saniye) : ")
 
 os.system("anonsurf start")
 os.system("clear")
-print("Yeni IP Adres :")
+print("Yeni IP Adresiniz :")
 print("-----------------------------")
 os.system("curl icanhazip.com")
 print("-----------------------------")
